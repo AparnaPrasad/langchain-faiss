@@ -1,6 +1,6 @@
 # LangChain FAISS Document Q&A System
 
-A simple document Q&A system using LangChain and FAISS for efficient similarity search and retrieval.
+A simple document helper than answers questions on Langchain Documentation page - using LangChain and FAISS for efficient similarity search and retrieval.
 
 ## Project Structure
 

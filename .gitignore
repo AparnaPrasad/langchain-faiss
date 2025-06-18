@@ -1,0 +1,4 @@
+.env
+langchain-faiss-store
+node_modules
+package-lock.json
